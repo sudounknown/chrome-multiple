@@ -1,5 +1,5 @@
-# chrome-multiple
-Chrome multiple, each browser is independent.
+# Chrome Multi Manager
+Chrome Multi Manager, each browser is independent.
 
 You can add extentions in bulk, and sync browser settings even bookmarks.
 
